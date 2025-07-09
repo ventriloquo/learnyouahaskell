@@ -1,0 +1,10 @@
+title: Learn You A Haskell For Great Good!
+defaults:
+  -
+    scope:
+      path: "pages"
+    values:
+      layout: "default"
+
+
+
