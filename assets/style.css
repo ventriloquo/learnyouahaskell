@@ -61,7 +61,7 @@ center {
   margin-top: 3em;
   margin-bottom: 1.5em;
 }
-pre{
+pre {
     color:black;
     background-color:#eee;
     font-family:Consolas, "Courier New", monospace;
@@ -80,7 +80,7 @@ pre{
     padding:10px;
     background-color:#ffc;
     margin-bottom:25px;
-    background-image:url(http://s3.amazonaws.com/lyah/note.jpg);
+    background-image:url(/assets/note.jpg);
 }
 .label {
     white-space:nowrap;
@@ -117,7 +117,7 @@ pre{
     margin:0px auto;
 }
 .introcontent {
-    background-image:url(http://s3.amazonaws.com/lyah/bg.png);
+    background-image:url(/assets/bg.png);
 }
 .bgwrapper {
     margin-top:50px;
@@ -186,13 +186,13 @@ pre{
 }
 .prevlink {
     padding-left:20px;
-    background-image:url(http://s3.amazonaws.com/lyah/prv.png);
+    background-image:url(/assets/prv.png);
     background-position:0px 3px;
     background-repeat:no-repeat;
 }
 .nxtlink {
     padding-right:20px;
-    background-image:url(http://s3.amazonaws.com/lyah/nxt.png);
+    background-image:url(/assets/nxt.png);
     background-position:top right;
     background-repeat:no-repeat;
 }
